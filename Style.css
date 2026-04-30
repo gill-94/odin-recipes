@@ -1,0 +1,25 @@
+.bdy {
+  background-color: #b3b3ff;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.txt{
+  color: white;
+  text-align: center;
+  border: 2px solid yellow;
+  padding: 3px;
+}
+
+button {
+  background-color: #ffffcc;
+  margin: 5px;
+  border: 1px solid black;
+  padding: 5px ;
+  font-size: 15px;
+  font-weight: bold;
+  
+}
+
+.txxt {
+  font-weight: bold;
+}
